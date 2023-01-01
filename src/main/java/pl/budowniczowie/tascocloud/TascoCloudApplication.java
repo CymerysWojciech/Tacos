@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TascoCloudApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(TascoCloudApplication.class, args);
     }
 
